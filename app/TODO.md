@@ -23,6 +23,8 @@
   - []Service
   - []Client
 - []Find Reference
+- []User Authentication
+- []Crashlytics
 
 ### Depenencies
 
