@@ -37,10 +37,5 @@
 
 ### Resources:
 
-- MoogleAPI
-  - https://www.moogleapi.com/
-  - https://www.moogleapi.com/api/v1/characters
-  - https://www.moogleapi.com/api/v1/monsters
-  - https://www.moogleapi.com/api/v1/games
-  - https://www.moogleapi.com/api/v1/characters/random
-  - Ref: https://github.com/jackfperryjr/mog#readme
+- MockBank
+  - https://mockbank.io/
